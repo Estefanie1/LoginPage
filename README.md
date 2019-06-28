@@ -1,19 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my Login Page 
 
 You can use the [editor on GitHub](https://github.com/Estefanie1/LoginPage/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Steps
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Using Github I was able to create a free domain to display the login page. Languages used are HTML and CSS for structure and design. 
 
 ```markdown
-Syntax highlighted code block
+Code block
 
-# Header 1
-## Header 2
-### Header 3
+# HTML CODE
 
 - Bulleted
 - List
@@ -26,7 +22,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###Style
+
+```markdown
+Code block
+
+#CSS CODE
+
+
+```
+
+
 
 ### Jekyll Themes
 
